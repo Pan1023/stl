@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="7-5stack获取栈顶元素.vcxproj" Id="4f25506e-9224-48f0-ab51-f06b42e706ac" />
+</Solution>
