@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="5-4string 拼接操作.vcxproj" />
+  <Project Path="5-4string 拼接操作.vcxproj" Id="5d42c9f2-6eff-4f36-8550-ce75d2032af3" />
 </Solution>
